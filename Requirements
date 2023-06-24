@@ -1,0 +1,8 @@
+Discord: 
+python3 -m pip install -U discord.py
+
+Pandas
+pip3 install pandas
+
+lxmla
+pip3 install lxml
